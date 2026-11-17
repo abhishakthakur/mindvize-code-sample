@@ -490,6 +490,11 @@ no commit today
 
 ### param
 
+#### 2026-11-17
+
+<!-- activity-checkin: {"account": "param", "date": "2026-11-17", "kind": "daily_checkin"} -->
+Automated demo check-in
+
 #### 2026-11-16
 
 <!-- activity-empty: {"account": "param", "date": "2026-11-16", "kind": "no_commits"} -->
