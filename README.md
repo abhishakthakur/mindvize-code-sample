@@ -22,7 +22,14 @@ This snapshot is intended for code review. The excerpts retain project implement
 These entries log project activity automatically. Private source activity is shown as commit counts.
 A log update does not claim authorship of the referenced application changes.
 
+Demo check-ins record scheduled activity in this repository.
+
 ### kulwinder
+
+#### 2026-11-17
+
+<!-- activity-checkin: {"account": "kulwinder", "date": "2026-11-17", "kind": "daily_checkin"} -->
+Automated demo check-in
 
 #### 2026-11-16
 
